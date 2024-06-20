@@ -1,5 +1,5 @@
 
-# sherry-homeDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
+# Mona's Lab
 
 Visit **[sherry-home.github.io/Mona-lab.github.io](https://sherry-home.github.io/Mona-lab.github.io)** 🚀
 
